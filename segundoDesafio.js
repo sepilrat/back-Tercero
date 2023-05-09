@@ -1,3 +1,11 @@
+
+
+//Estoy con mucho trabajo porque nos hackearon la infra de servicios y soy el responsable, esta semana no
+//pude ocuparme, voy a ir actualizando a medida que pueda. gracias por entender.
+
+
+
+
 const fs = require("fs");
 const { json } = require("stream/consumers");
 
